@@ -1,6 +1,6 @@
 # TodoApp-NodeJS
 
 TodoApp permite crear una TODO list en CLI.
-Se pueden crear tareas, marcarlas como completadas/pendientes, consultar todas las tareas, y también filtrarlas por completadas/pendientes.
+En la App se pueden crear tareas, marcarlas como completadas/pendientes, consultar todas las tareas, filtrarlas por completadas/pendientes y eliminarlas.
 
 Tecnologías utilizadas: NodeJS.
